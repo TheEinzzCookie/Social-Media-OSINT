@@ -375,7 +375,6 @@ Please bear in mind that changes to X, especially involving their API (March 202
  <li><a href="https://github.com/claromes/waybacktweets">Claromes</a></li>Find archived tweets on Wayback Machine in an easy way.
  <li><a href="https://codeofaninja.com/tools/find-twitter-id/">Codeofaninja</a></li>Easy way for you to get a Twitter profile's numeric ID.
  <li><a href="https://cache.digitaldigging.org/">Deleted Tweet Finder</a></li>Search for deleted tweets across multiple archival services.
- <li><a href="https://peekvault.com/">PeekVault</a></li>Search public X/Twitter captures from the Internet Archive CDX index, preview archived snapshots, and export results.
  <li><a href="https://followerwonk.com/">Followerwonk</a></li>Twitter analytics tool used to find, analyze, and optimize for social growth and helps to explore and grow user's social graph.
  <li><a href="https://hashatit.com/">Hash At It</a></li>Hashtag search engine. *Currently Not Returning Twiiter Hashtags*
  <li><a href="https://instalker.org/">Instalker</a></li>Tracks Twitter trends, finds the most popular Twitter users, hashtags and places.
@@ -387,6 +386,7 @@ Please bear in mind that changes to X, especially involving their API (March 202
  <li><a href="https://github.com/dimdenGD/OldTweetDeck">Old TweetDeck</a></li>Returns old TweetDeck, for free!
  <li><a href="https://onemilliontweetmap.com/">One Million Tweet Map </a></li> A geographical clustering engine for online maps to display and analyse big geolocalized data. 
  <li><a href="https://osintcombine.com/social-geo-lens">Osint Conbine</a></li>This tool is designed to provide a map based interface for geo searching on social media platform.
+ <li><a href="https://peekvault.com/">PeekVault</a></li>Search public X/Twitter captures from the Internet Archive CDX index, preview archived snapshots, and export results.
  <li><a href="https://realtoptweeps.com/rankings/">Real Top Tweeps</a></li>Rankings of active Twitter accounts per language.
  <li><a href="http://spoonbill.io/">Spoonbill</a></li>Spoonbill lets you see profile changes from the people you follow on Twitter or other social networks.
  <li><a href="https://www.sotwe.com/">Sotwe</a></li>Twitter Web Viewer. Tracks Twitter trends, finds the most popular Twitter users, hashtags and places.
