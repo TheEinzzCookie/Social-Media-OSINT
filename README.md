@@ -332,6 +332,7 @@ current location and view Snaps from nearby-Snapchat users or users.
 </table>
 <p>Resources</p>
 <ul>
+   <li><a href="https://tiktok.einzzcookie.org/">TikTok Stalker</a></li>Monitor liking activity, see user details, see video details and download videos & sound without watermark. This includes further features such as obtaining timestamps of videos, timestamps of user creations, last nickname changes, language settings of users, reposts of users, comments of users on their reposts and much more.
   <li><a href="https://bellingcat.github.io/tiktok-timestamp/">Bellingcat</a></li>Obtain the timestamp of a TikTok video.
   <li><a href="https://github.com/bellingcat/tiktok-hashtag-analysis">Bellingcat</a></li>Provides tools to analyze hashtags within posts scraped from TikTok.
   <li><a href="https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0&gsc.q=johnsmith&gsc.sort=">Custom Search Engine</a></li>TikTok CSE search. 
@@ -346,7 +347,6 @@ current location and view Snaps from nearby-Snapchat users or users.
   <li><a href="https://github.com/estebanpdl/tik-spyder?tab=readme-ov-file">Tik-Spyder</a></li>A Python command-line tool designed to collect TikTok data.
   <li><a href="https://www.tiktok.com/foryou">TikTok For You</a></li>For You is a personalized feed of videos based on your interests and engagement.
   <li><a href="https://www.tiktokstalk.com/">TikTokStalk</a></li>You can find users, hashtags, videos, music, and more on Tiktok.
-  <li><a href="https://tiktokstalker.protecter.workers.dev/">TikTok Stalker</a></li>Monitor liking activity, see user details, see video details and download videos & sound without watermark.
   <li><a href="https://tiktake.org/">TikTake</a></li>Download TikTok videos and more without any watermark.
   <li><a href="https://tiktokd.com/">TikTokD</a></li>Download TikTok videos without watermark via username.
   <li><a href="https://tiktokdownloader.com/">TikTok Downloader</a></li>Download TikTok videos without the watermark.
