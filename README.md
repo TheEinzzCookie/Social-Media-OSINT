@@ -333,25 +333,17 @@ current location and view Snaps from nearby-Snapchat users or users.
 <p>Resources</p>
 <ul>
    <li><a href="https://tiktok.einzzcookie.org/">TikTok Stalker</a></li>Monitor liking activity, see user details, see video details and download videos & sound without watermark. This includes further features such as obtaining timestamps of videos, timestamps of user creations, last nickname changes, language settings of users, reposts of users, comments of users on their reposts and much more.
-  <li><a href="https://bellingcat.github.io/tiktok-timestamp/">Bellingcat</a></li>Obtain the timestamp of a TikTok video.
   <li><a href="https://github.com/bellingcat/tiktok-hashtag-analysis">Bellingcat</a></li>Provides tools to analyze hashtags within posts scraped from TikTok.
   <li><a href="https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0&gsc.q=johnsmith&gsc.sort=">Custom Search Engine</a></li>TikTok CSE search. 
   <li><a href="https://github.com/drawrowfly/tiktok-scraper">Drawrowfly</a></li>TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata.
   <li><a href="https://mavekite.com/">Analyse TikTok </a></li>A web application made for people who want to calculate tiktok engagement rate and analyse tiktok profile, video, song, or hashtag.
   <li><a href="https://www.osintcombine.com/tiktok-quick-search">OSINT Combine</a></li>This tool is designed to provide a quick method to search usernames and hashtags on TikTok via a browser.
   <li><a href="https://github.com/dfreelon/pyktok?">Pyktok</a></li>A simple module to collect video, text, and metadata from Tiktok.
-  <li><a href="https://snaptik.app/">SnapTik</a></li>TikTok video downloader without the watermark.
   <li><a href="https://github.com/sinwindie/OSINT/tree/master/TikTok">Sinwindle</a></li>Sinwindle's gitHub TikTok tools. 
-  <li><a href="https://tiker.cc/en">Tiker</a></li>Download any TikTok user's video anonymously, without registration and watermark.
   <li><a href="https://github.com/estebanpdl/tik-spyder?tab=readme-ov-file">Tik-Spyder</a></li>A Python command-line tool designed to collect TikTok data.
   <li><a href="https://www.tiktok.com/foryou">TikTok For You</a></li>For You is a personalized feed of videos based on your interests and engagement.
-  <li><a href="https://www.tiktokstalk.com/">TikTokStalk</a></li>You can find users, hashtags, videos, music, and more on Tiktok.
-  <li><a href="https://tiktake.org/">TikTake</a></li>Download TikTok videos and more without any watermark.
-  <li><a href="https://tiktokd.com/">TikTokD</a></li>Download TikTok videos without watermark via username.
   <li><a href="https://tiktokdownloader.com/">TikTok Downloader</a></li>Download TikTok videos without the watermark.
   <li><a href="https://ttdown.org/">Ttdown</a></li>Download tiktok video to mp4 & mp3.
-  <li><a href="https://urlebird.com/">UrleBird</a></lI>TikTok Viewer, a website where you can analyze, discover and explore TikTok
-  <li><a href="https://vidnice.com/">Vidnice</a></li>VidNice is a TikTok Web Viewer that you can easily browse users, followers, hashtags, popular contents, statistics and much more.
 </ul>
 </div>
 <table>
